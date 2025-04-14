@@ -28,6 +28,13 @@ body {
     }
 }
 
+img {
+    width: 40.9rem;
+    height: 30.7rem;
+    top: 11.8rem;
+    left: 3.2rem;
+}
+
 aside {
     grid-area: aside;
 }
